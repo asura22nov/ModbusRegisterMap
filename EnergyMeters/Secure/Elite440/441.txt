@@ -1,0 +1,21 @@
+Start Register|Start Register|Parameter|Description|Format|Units
+40100|40101|V1|R Phase to Neutral Voltage|32 bit FP|Volt
+40102|40103|V2|Y Phase to Neutral Voltage|32 bit FP|Volt
+40104|40105|V3|B Phase to Neutral Voltage|32 bit FP|Volt
+40106|40107|Vavg|Average Voltage|32 bit FP|Volt
+40108|40109|V12|RY Voltage|32 bit FP|Volt
+40110|40111|V23|YB Voltage|32 bit FP|Volt
+40112|40113|V31|BR Voltage|32 bit FP|Volt
+40114|40115|L1|R Phase Line current |32 bit FP|Ampere
+40116|40117|L2|Y Phase Line current |32 bit FP|Ampere
+40118|40119|L3|B Phase Line current|32 bit FP|Ampere
+40120|40121|LN|Neutral Line current     |32 bit FP|Ampere
+40122|40123|I1|R Phase Active Current|32 bit FP|Ampere
+40124|40125|I2|Y Phase Active Current|32 bit FP|Ampere
+40126|40127|I3|B Phase Active Current|32 bit FP|Ampere
+40128|40129|R1|R Phase Reactive Current|32 bit FP|Ampere
+40130|40131|R2|Y Phase Reactive Current|32 bit FP|Ampere
+40132|40133|R3|B Phase Reactive Current|32 bit FP|Ampere
+40172|40173|FQ|Frequency Hz |32 bit FP|Hz
+40174|40175|RT|Meter real Time|Unsigned 32 bits|Seconds
+40176|40177|Temperature|Meter Temperature|32 bit FP|Degree Centigrde
